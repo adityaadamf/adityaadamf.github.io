@@ -1,24 +1,24 @@
 {
   "portfolio": [
     { 
-      "href": "https://github.com/adityaadamf",
+      "href": "https://github.com/adityaadamf/2021/blob/5ee6db648e11826b9b1d608f28107da09a216559/Project%20Data%20Analysis%20for%20B2B%20Retail%20-%20Customer%20Analytics%20Report.sql",
       "title": "Project Data Analysis for B2B Retail: Customer Analytics Report",
       "image": "https://dqlab.id/files/dqlab/cache/6b8c33bdec694a9af1b696bef97d2d25_x_Thumbnail800.png",
-      "date": "December, 22 2022",
+      "date": "December 22, 2022",
       "content": "(SQL) Analysis of the company's condition in the last month to be presented at the townhall (2004)."
     },
     { 
-      "href": "https://github.com/adityaadamf",
+      "href": "https://github.com/adityaadamf/2021/blob/5ee6db648e11826b9b1d608f28107da09a216559/Project%20Data%20Analysis%20for%20Retail%20-%20Sales%20Performance%20Report.sql",
       "title": "Project Data Analysis for Retail: Sales Performance Report",
       "image": "https://dqlab.id/files/dqlab/cache/6b8c33bdec694a9af1b696bef97d2d25_x_Thumbnail800.png",
-      "date": "December, 22 2022",
+      "date": "December 22, 2022",
       "content": "Analyze the performance of the DQLab Store using MySQL."
     },
     { 
-      "href": "https://github.com/adityaadamf",
+      "href": "https://github.com/adityaadamf/2021/blob/5ee6db648e11826b9b1d608f28107da09a216559/Project%20Machine%20Learning%20with%20Python%20-%20Building%20Recommender%20System.ipynb",
       "title": "Project Machine Learning with Python: Building Recommender System",
       "image": "https://dqlab.id/files/dqlab/cache/6b8c33bdec694a9af1b696bef97d2d25_x_Thumbnail800.png",
-      "date": "December, 16 2021",
+      "date": "December 16, 2021",
       "content": "Creating a recommendation system using Python, the data we will use here is a movie database from imdb complete with metadata."
     },
     { 
@@ -32,7 +32,7 @@
       "href": "https://github.com/adityaadamf/2021/blob/dde5509503c36768271572ce23cf1e6939d07b42/Data%20Analyst%20Project%20-%20Business%20Decision%20Research.ipynb",
       "title": "Data Analyst Project: Business Decision Research",
       "image": "https://dqlab.id/files/dqlab/cache/6b8c33bdec694a9af1b696bef97d2d25_x_Thumbnail800.png",
-      "date": "September, 22 2021",
+      "date": "September 22, 2021",
       "content": "Data preparation (ETL data), Visualization, Basic Stat Method (modeling) using DQLab sport center data for 2013 - 2019."
     }
   ]
