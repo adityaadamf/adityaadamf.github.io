@@ -1,0 +1,7 @@
+{
+  "header": [
+    { "key": "home", "link": "/", "target": null, "name": "Home" },
+    { "key": "about", "link": "/about", "target": null, "name": "About" },
+    { "key": "portfolio", "link": "/portfolio", "target": null, "name": "Portfolio" }
+  ]
+}

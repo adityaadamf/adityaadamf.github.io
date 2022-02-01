@@ -1,0 +1,57 @@
+{
+  "skills": [
+    {
+      "name": "Python and R", 
+      "point": [
+        "Data Scraping", 
+        "Data Frames", 
+        "Data Visualization", 
+        "Machine Learning"
+      ]
+    },
+    {
+      "name": "SQL", 
+      "point": [
+        "Relational Database Model System (RDBMS)",
+        "SQL commands",
+        "Creating Tables",
+        "Null Value",
+        "Indexes",
+        "Joins",
+        "Primary & Foreign Key",
+        "SubQuery"
+      ]
+    },
+    {
+      "name": "Javascript", 
+      "point": [
+        "Front-End Framework (React)",
+        "Front-End Libraries (Ant Design)",
+        "Back-End Framework (Express)",
+        "Back-End Libraries (MySQL, Multer, Jimp, Imap)"
+      ]
+    },
+    {
+      "name": "PHP", 
+      "point": [
+        "Developed dynamic websites using PHP and Connecting to Front-End like Javascript"
+      ]
+    },
+    {
+      "name": "SPSS and Minitab", 
+      "point": [
+        "Descriptive",
+        "Visualization",
+        "Parametric and Non-parametric Test"
+      ]
+    },
+    {
+      "name": "Microsoft Excel", 
+      "point": [
+        "Create (range, filtering, sorting, merging, cleaning, and trimming data)",
+        "Pivot tables and Charts",
+        "Visual Basic Application (VBA)"
+      ]
+    }
+  ]
+}

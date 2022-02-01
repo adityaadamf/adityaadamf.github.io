@@ -1,0 +1,25 @@
+{
+  "pages": [
+    { 
+      "key": "home", 
+      "link": "/", 
+      "title": "Aditya Adam F.", 
+      "description": "My Personal website build for Portfolio.", 
+      "keywords": "portfolio, portfolio adit, portfolio aditya, portfolio aditya adam"
+    },
+    { 
+      "key": "about", 
+      "link": "/about", 
+      "title": "About / Aditya Adam F.", 
+      "description": "About Page. My Personal website build for Portfolio.", 
+      "keywords": "portfolio, portfolio adit, portfolio aditya, portfolio aditya adam"
+    },
+    { 
+      "key": "portfolio", 
+      "link": "/portfolio", 
+      "title": "Portfolio / Aditya Adam F.", 
+      "description": "Portfolio Page. My Personal website build for Portfolio.", 
+      "keywords": "portfolio, portfolio adit, portfolio aditya, portfolio aditya adam"
+    }
+  ]
+}

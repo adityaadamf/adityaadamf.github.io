@@ -1,0 +1,39 @@
+{
+  "portfolio": [
+    { 
+      "href": "https://github.com/adityaadamf",
+      "title": "Project Data Analysis for B2B Retail: Customer Analytics Report",
+      "image": "https://dqlab.id/files/dqlab/cache/6b8c33bdec694a9af1b696bef97d2d25_x_Thumbnail800.png",
+      "date": "December, 22 2022",
+      "content": "(SQL) Analysis of the company's condition in the last month to be presented at the townhall (2004)."
+    },
+    { 
+      "href": "https://github.com/adityaadamf",
+      "title": "Project Data Analysis for Retail: Sales Performance Report",
+      "image": "https://dqlab.id/files/dqlab/cache/6b8c33bdec694a9af1b696bef97d2d25_x_Thumbnail800.png",
+      "date": "December, 22 2022",
+      "content": "Analyze the performance of the DQLab Store using MySQL."
+    },
+    { 
+      "href": "https://github.com/adityaadamf",
+      "title": "Project Machine Learning with Python: Building Recommender System",
+      "image": "https://dqlab.id/files/dqlab/cache/6b8c33bdec694a9af1b696bef97d2d25_x_Thumbnail800.png",
+      "date": "December, 16 2021",
+      "content": "Creating a recommendation system using Python, the data we will use here is a movie database from imdb complete with metadata."
+    },
+    { 
+      "href": "",
+      "title": "Determination of National Pure Premium for Property Insurance (OJK Project)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/OJK_Logo.png",
+      "date": "October 2021",
+      "content": "Filter property insurance claims data in indonesia from 2015 to 2019 for each occupational code. Then the rate for each occupational code is determined to limit the national insurance premium for each occupational code."
+    },
+    { 
+      "href": "https://github.com/adityaadamf",
+      "title": "Data Analyst Project: Business Decision Research",
+      "image": "https://dqlab.id/files/dqlab/cache/6b8c33bdec694a9af1b696bef97d2d25_x_Thumbnail800.png",
+      "date": "September, 22 2021",
+      "content": "Data preparation (ETL data), Visualization, Basic Stat Method (modeling) using DQLab sport center data for 2013 - 2019."
+    }
+  ]
+}

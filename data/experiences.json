@@ -1,0 +1,52 @@
+{
+  "experience": [
+    {
+      "title": "Favorite Winner Infographic Design Competition",
+      "company": "HIMASTA UNSYIAH",
+      "desc": "",
+      "date": "Nov 2018"
+    },
+    {
+      "title": "Head of Committee Entrepreneurship Seminar 2.0",
+      "company": "Entrepreneurship Seminar 2.0",
+      "desc": "Hosted 3 seminar and 2 Talk show attended by 90 people in total",
+      "date": "May 2019"
+    },
+    {
+      "title": "Finalist of Data Engineering Competition BISA AI 2020",
+      "company": "Bisa AI",
+      "desc": "",
+      "date": "Apr 2020"
+    },
+    {
+      "title": "Sahabat Sensus Penduduk Online 2020 (Intern)",
+      "company": "Badan Pusat Statistik",
+      "desc": "Inform and assist the public about Indonesia Online Population Census 2020, then make sure the data was collected",
+      "date": "Feb 2020 - May 2020"
+    },
+    {
+      "title": "Participant of Shopee Code League 2020 (Open Category)",
+      "company": "Shopee",
+      "desc": "",
+      "date": "Aug 2020"
+    },
+    {
+      "title": "Participant of Shopee NDSC 2020 (Advanced Category)",
+      "company": "Shopee ID",
+      "desc": "",
+      "date": "Nov 2020"
+    },
+    {
+      "title": "Participant of BRI Data Hackathon 2021",
+      "company": "BRI Data Hackathon",
+      "desc": "",
+      "date": "Mar 2021"
+    },
+    {
+      "title": "Bachelor Statistics",
+      "company": "Bandung Islamic University",
+      "desc": "GPA 3.35 of 4.00",
+      "date": "Sep 2017 - Aug 2021"
+    }
+  ]
+}
