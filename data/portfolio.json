@@ -1,6 +1,13 @@
 {
   "portfolio": [
     { 
+      "href": "https://github.com/adityaadamf/2022/blob/4360894a43316602cdf21f1d1a21f0d1fbc18e27/Customer%20Personality%20Analysis.ipynb",
+      "title": "Customer Personality Analysis",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png",
+      "date": "February 07, 2022",
+      "content": "Need to perform clustering to summarize customer segments. Dataset from https://www.kaggle.com/imakash3011/customer-personality-analysis."
+    },
+    { 
       "href": "https://github.com/adityaadamf/2021/blob/5ee6db648e11826b9b1d608f28107da09a216559/Project%20Data%20Analysis%20for%20B2B%20Retail%20-%20Customer%20Analytics%20Report.sql",
       "title": "Project Data Analysis for B2B Retail: Customer Analytics Report",
       "image": "https://dqlab.id/files/dqlab/cache/6b8c33bdec694a9af1b696bef97d2d25_x_Thumbnail800.png",
