@@ -1,6 +1,13 @@
 {
   "portfolio": [
     { 
+      "href": "https://datastudio.google.com/s/hVLtWR5KCI4",
+      "title": "Customer Personality (Dashboard Data Studio)",
+      "image": "https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg",
+      "date": "February 22, 2022",
+      "content": "I Create Dashboard from Customer Personality in Company X, there are dashboard and models tabs. Dataset that I use from the results of cleaning and selecting variables, before labeling and clustering results. (My post 'Customer Personality Analysis')"
+    },
+    { 
       "href": "https://github.com/adityaadamf/2022/blob/b9734474f2db468aecdc58704f7424dcd91a9ac2/Predict%20the%20Success%20of%20Bank%20Telemarketing.ipynb",
       "title": "Predict the Success of Bank Telemarketing",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png",
