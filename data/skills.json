@@ -5,6 +5,7 @@
       "point": [
         "Data Scraping", 
         "Data Frames", 
+        "Data Preprocessing",
         "Data Visualization", 
         "Machine Learning"
       ]
@@ -46,11 +47,18 @@
       ]
     },
     {
-      "name": "Microsoft Excel", 
+      "name": "Microsoft Excel / Google Spreadsheet", 
       "point": [
         "Create (range, filtering, sorting, merging, cleaning, and trimming data)",
         "Pivot tables and Charts",
-        "Visual Basic Application (VBA)"
+        "Macro",
+        "Visual Basic Application (VBA in Excel)"
+      ]
+    },
+    {
+      "name": "Google Data Studio", 
+      "point": [
+        "Creating Interactive Dashboard Report and Data Visualization"
       ]
     }
   ]
