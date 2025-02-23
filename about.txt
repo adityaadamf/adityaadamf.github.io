@@ -1,0 +1,17 @@
+1:"$Sreact.fragment"
+2:I[5244,[],""]
+3:I[3866,[],""]
+4:I[7965,["545","static/chunks/c16f53c3-ba45fe103e0e6bea.js","278","static/chunks/278-aeccb273f665f995.js","345","static/chunks/app/not-found-88e2d9fc2a8e1a63.js"],"default"]
+5:I[7033,[],"ClientPageRoot"]
+6:I[4166,["545","static/chunks/c16f53c3-ba45fe103e0e6bea.js","278","static/chunks/278-aeccb273f665f995.js","220","static/chunks/app/about/page-8c0133a884c2a8e8.js"],"default"]
+9:I[6213,[],"OutletBoundary"]
+b:I[6213,[],"MetadataBoundary"]
+d:I[6213,[],"ViewportBoundary"]
+f:I[4835,[],""]
+:HL["/adityaadamf.github.io/_next/static/css/1a3ebbf1b4ec4bc2.css","style"]
+0:{"P":null,"b":"lKL3WrCnIq-jdM0c8rBNA","p":"/adityaadamf.github.io","c":["","about"],"i":false,"f":[[["",{"children":["about",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/adityaadamf.github.io/_next/static/css/1a3ebbf1b4ec4bc2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_4277c5 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],["$","$L4",null,{}]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["about",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","segmentPath":["children","about","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L5",null,{"Component":"$6","searchParams":{},"params":{},"promises":["$@7","$@8"]}],null,["$","$L9",null,{"children":"$La"}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","yAuGcS9vuakBKvaxZ2wk2",{"children":[["$","$Lb",null,{"children":"$Lc"}],["$","$Ld",null,{"children":"$Le"}],null]}]]}],false]],"m":"$undefined","G":["$f","$undefined"],"s":false,"S":true}
+7:{}
+8:{}
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Aditya Adam F. - Personal"}],["$","meta","2",{"name":"description","content":"This web app was created by Aditya Adam Firdaus as a personal platform to share insights, projects, and experiences."}],["$","meta","3",{"name":"keywords","content":"adit, aditya, aditya adam, aditya adam firdaus, adityaadamf"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"icon","href":"/adityaadamf.github.io/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+a:null

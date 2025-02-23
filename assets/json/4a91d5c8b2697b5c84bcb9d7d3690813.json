@@ -1,0 +1,62 @@
+{
+  "profile": {
+    "img": "https://avatars.githubusercontent.com/u/62201440",
+    "name": "Aditya Adam Firdaus",
+    "shortdesc": "A data-driven professional specializing in analytics, predictive modeling, and AI deployment to enhance business insights.",
+    "desc": "<div class=\"mt-4 text-justify text-gray-700 space-y-2 break-words\"><p class=\"text-justify\">I am a Bachelor of Statistics with a strong interest in Data Analysis, Data Science, Machine Learning, and Artificial Intelligence (AI).</p><p class=\"text-justify\">Currently, I work as a Data Analyst for a client in the real estate sector. My role includes:</p><ol class=\"list-decimal pl-5 space-y-2\"><li>1. Preparing, cleaning, and analyzing data using Python or BigQuery, visualizing insights with Looker Studio, and delivering compelling data storytelling.</li><li>2. Automating ETL processes using Python (FastAPI).</li><li>3. Developing AI models and chatbots.</li></ol><p class=\"text-justify\">In my daily work, I primarily use Python as my main programming language. For database management, I work with MySQL, SQLite, Firebase, and BigQuery. For data visualization, I utilize Looker Studio and Google Spreadsheet. I am open to new job opportunities and excited to explore roles that align with my expertise.</p></div>",
+    "social": [
+      {"title": "LinkedIn", "link": "https://linkedin.com/in/adityaadamf", "target": "_blank"},
+      {"title": "Github", "link": "https://github.com/adityaadamf", "target": "_blank"},
+      {"title": "Medium", "link": "https://medium.com/@adityaadamf", "target": "_blank"},
+      {"title": "Email", "link": "mailto:itsadityaadam@gmail.com", "target": ""}
+    ],
+    "my_history": [
+      {
+        "title": "Junior Data Analyst",
+        "company": "PT Automata Neo Solutions (Automata)",
+        "start_date": "March 2022",
+        "end_date": ""
+      },
+      {
+        "title": "Sahabat Sensus Penduduk Online 2020",
+        "company": "Badan Pusat Statistik",
+        "start_date": "February 2020",
+        "end_date": "May 2020"
+      },
+      {
+        "title": "Head of Committee Entrepreneurship Seminar 2.0",
+        "company": "Entrepreneurship Seminar 2.0",
+        "start_date": "May 2019",
+        "end_date": "May 2019"
+      },
+      {
+        "title": "Undergraduate student - Statistics",
+        "company": "Universitas Islam Bandung",
+        "start_date": "September 2017",
+        "end_date": "August 2021"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "Programming & Development",
+      "skills": ["Python", "JavaScript", "FastAPI","React.js"]
+    },
+    {
+      "name": "Databases & Cloud",
+      "skills": ["MySQL", "SQLite", "Firebase", "BigQuery"]
+    },
+    {
+      "name": "Data Analytics & Visualization",
+      "skills": ["Looker Studio (Google Data Studio)", "Spreadsheet"]
+    },
+    {
+      "name": "Machine Learning & AI",
+      "skills": ["Machine Learning", "Natural Language Processing (NLP)", "Azure AI"]
+    },
+    {
+      "name": "Data Engineering & Streaming",
+      "skills": ["Kafka"]
+    }
+  ]
+}
