@@ -1,0 +1,6 @@
+[
+  {"title": "Home", "path": "/", "target": ""},
+  {"title": "Projects", "path": "/projects", "target": ""},
+  {"title": "Blog", "path": "https://medium.com/@adityaadamf", "target": "_blank"},
+  {"title": "About", "path": "/about", "target": ""}
+]
