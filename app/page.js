@@ -48,7 +48,7 @@ export default function Home() {
       <div className="aditya-home">
         <section className="aditya-home-section-1">
           <div className="flex items-center justify-center py-16">
-            <div className="w-full max-w-xl text-center">
+            <div className="w-full max-w-xl text-center px-3">
               <img
                 src={shortProfile?.img}
                 alt="Aditya Adam Firdaus"
