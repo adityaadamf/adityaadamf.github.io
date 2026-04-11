@@ -26,7 +26,7 @@ export default function About() {
                 className="object-cover rounded-full border border-neutral-500 dark:border-neutral-300"
               />
             </div>
-            <div className="md:col-span-2 space-y-4 text-neutral-300 text-justify leading-relaxed">
+            <div className="md:col-span-2 space-y-4 text-neutral-800 dark:text-neutral-300 text-justify leading-relaxed">
               <p>
                 I am a Data Analyst specializing in data analytics, machine learning, and data-driven solutions.
               </p>
