@@ -175,20 +175,20 @@ export default function Home() {
         </h3>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
           <div className="border rounded-xl p-4 text-center hover:scale-105 hover:cursor-pointer transition-all duration-300">
-            <h4 className="text-xl font-bold">Dashboard</h4>
-            <p className="text-sm text-neutral-500">Faster Decisions</p>
-          </div>
-          <div className="border rounded-xl p-4 text-center hover:scale-105 hover:cursor-pointer transition-all duration-300">
-            <h4 className="text-xl font-bold">Real-Time Data</h4>
-            <p className="text-sm text-neutral-500">Better Insights</p>
+            <h4 className="text-xl font-bold">100%</h4>
+            <p className="text-sm text-neutral-500">Automated Reporting</p>
           </div>
           <div className="border rounded-xl p-4 text-center hover:scale-105 hover:cursor-pointer transition-all duration-300">
             <h4 className="text-xl font-bold">80%</h4>
-            <p className="text-sm text-neutral-500">Lead Accuracy</p>
+            <p className="text-sm text-neutral-500">ETL Time Reduction</p>
           </div>
           <div className="border rounded-xl p-4 text-center hover:scale-105 hover:cursor-pointer transition-all duration-300">
-            <h4 className="text-xl font-bold">90%</h4>
-            <p className="text-sm text-neutral-500">Lead Filtering</p>
+            <h4 className="text-xl font-bold">76%</h4>
+            <p className="text-sm text-neutral-500">Spam Filtering</p>
+          </div>
+          <div className="border rounded-xl p-4 text-center hover:scale-105 hover:cursor-pointer transition-all duration-300">
+            <h4 className="text-xl font-bold">21%</h4>
+            <p className="text-sm text-neutral-500">High-Potential Leads</p>
           </div>
         </div>
       </section>

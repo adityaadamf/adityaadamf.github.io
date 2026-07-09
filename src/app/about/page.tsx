@@ -28,13 +28,13 @@ export default function About() {
             </div>
             <div className="md:col-span-2 space-y-4 text-neutral-800 dark:text-neutral-300 text-justify leading-relaxed">
               <p>
-                I am a Data Analyst specializing in data analytics, machine learning, and data-driven solutions.
+                I am a Data Analyst with over 4 years of experience specializing in data analytics, data science, and machine learning solutions.
               </p>
               <p>
-                I build and maintain automated data pipelines using Python (FastAPI), develop predictive models, and create chatbot solutions to support business needs.
+                I excel at building automated data pipelines using Python (FastAPI), developing predictive models, and architecting AI-driven workflows—including end-to-end platform development and generative AI integrations—to solve complex business challenges.
               </p>
               <p>
-                I work with databases such as MySQL, SQLite, Firebase, and BigQuery, and create data visualizations using Looker Studio and Google Sheets.
+                I work extensively with relational and NoSQL databases like MySQL, PostgreSQL, BigQuery, and Firebase, translating data into actionable insights through real-time dashboards in Looker Studio.
               </p>
               <p className="font-semibold text-white">
                 Open to new opportunities.
