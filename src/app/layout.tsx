@@ -21,6 +21,18 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <meta httpEquiv="refresh" content="1; url=https://adityaa.my.id" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              if (typeof window !== "undefined") {
+                window.location.href = "https://adityaa.my.id" + window.location.pathname + window.location.search + window.location.hash;
+              }
+            `,
+          }}
+        />
+      </head>
       <body
         className={`${jakarta.variable} antialiased bg-white dark:bg-neutral-900`}
       >
